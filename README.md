@@ -1,16 +1,18 @@
-## Hi there 👋
+# Zach Gillespie
 
-<!--
-**TheZuccary/TheZuccary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hardware reliability and prototyping at Apple. I build AI tools and native macOS apps on the side.
 
-Here are some ideas to get you started:
+## Projects (private repos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mantle**: native macOS local-first AI workstation (Swift 6, SwiftUI)
+- Chat, RAG retrieval (sqlite-vec + FTS5), MCP tools, and an agentic code tab
+- Runs llama.cpp and MLX models locally; custom MLX inference engine in development
+- 1,100+ commits, ~500 package tests in GitHub Actions CI, written threat model
+
+**Decant**: macOS launcher for Windows games
+- Builds and packages a patched Wine engine from source with scripted builds
+- Streaming to iPhone over Tailscale (HEVC, ScreenCaptureKit) in development
+
+Code is private. Happy to walk through either project on a call.
+
+[LinkedIn](https://www.linkedin.com/in/zach-gillespie20)
